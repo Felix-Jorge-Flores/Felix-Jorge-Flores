@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Felix-Jorge-Flores/Felix-Jorge-Flores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
