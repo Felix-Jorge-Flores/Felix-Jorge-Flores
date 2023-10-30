@@ -3,9 +3,10 @@
 <!--
 **Felix-Jorge-Flores/Felix-Jorge-Flores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<img src="https://res.cloudinary.com/dczcssyfj/image/upload/v1698705140/Portfolio/rekkojfnp8ekxzld5uhw.jpg"></img>
 <h1 align="center">Hi 👋, I'm Félix Jorge</h1>
 <h3 align="center">A frontend developer from Perú</h3>
-<img src="https://res.cloudinary.com/dczcssyfj/image/upload/v1697950285/Portfolio/j4cr3cbgja7ghcorozlq.jpg"></img>
+
 - 🌱 I’m currently learning **Astro**
 
 - 👨‍💻 All of my projects are available at [felix-jorge-flores.github.io/portafolio](felix-jorge-flores.github.io/portafolio)
@@ -18,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/félix junior jorge flores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="félix junior jorge flores" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/felix-junior-jorge-flores-222976295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="félix junior jorge flores" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
