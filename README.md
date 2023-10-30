@@ -7,9 +7,9 @@
 <h1 align="center">Hi 👋, I'm Félix Jorge</h1>
 <h3 align="center">A frontend developer from Perú</h3>
 
-- 🌱 I’m currently learning **Astro**
+- 🚀 I’m currently learning **Astro**
 
-- 👨‍💻 All of my projects are available at [felix-jorge-flores.github.io/portafolio](felix-jorge-flores.github.io/portafolio)
+- 👨‍💻 All of my projects are available at [felix-jorge-flores.github.io/portafolio](https://felix-jorge-flores.github.io/portafolio)
 
 - 💬 Ask me about **flutter and react**
 
